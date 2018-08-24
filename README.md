@@ -1,5 +1,5 @@
 # bilimselHesapMakinesi
-hr>
+<hr>
 
 - Kullanıcıdan alınan matematiksel bir işlemi hesaplayarak sonucu ekrana yazdırır. <br>
 
